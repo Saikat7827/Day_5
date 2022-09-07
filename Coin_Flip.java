@@ -30,7 +30,7 @@ public class Coin_Flip {
 	      }
 	    }
 
-	    System.out.println("\n");
+	    System.out.println("n");
 	    System.out.println("Heads percent " + ((float) headCount / numTimes) * 100);
 	    System.out.println("Tails percent " + ((float) tailCount / numTimes) * 100);
 	    sc.close();
